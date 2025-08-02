@@ -71,4 +71,4 @@ Installments:
 👨‍💻 Autor
 João Victor Firmino Sousa
 📧 fjoao2012v@gmail.com
-🔗 [linkedin.com/in/seu-perfil](https://www.linkedin.com/in/jo%C3%A3o-victor-firmino-sousa-130874208/)
+🔗 [linkedin.com/in/meu-perfil](https://www.linkedin.com/in/jo%C3%A3o-victor-firmino-sousa-130874208/)
